@@ -2,4 +2,4 @@
 BackBone.js, API, MongoDB
 
 ##ScreenShot
-<img scr="https://github.com/cr1stian/ToDo-MVC/blob/master/Screen%20Shot%202017-10-19%20at%209.36.34%20PM.png?raw=true"/>
+![screen shot 2017-10-19 at 9 36 34 pm](https://user-images.githubusercontent.com/29879231/31805545-72b277f4-b516-11e7-99ba-528c72226662.png)
